@@ -4,4 +4,5 @@ git is free sofawar
 git a distributed version syste
 再一次修改
 hell
-Git has a mutable index called stage
+Git has a mutable index called stag
+Git tracks changes.
