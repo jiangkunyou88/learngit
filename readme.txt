@@ -5,4 +5,4 @@ git a distributed version syste
 再一次修改
 hell
 Git has a mutable index called stag
-Git tracks changes.
+Git tracks changes of files.
